@@ -1,8 +1,9 @@
 ﻿#Hello My name is tiger
-## We Comeback back again
+## This is my first project in github
 ```
-print('Hello From tiger')
-print('This is my first code')
+print('Its me tiger')
+print('Ronnachai Bunsanong')
+print('CoE 2/2 163404140039')
 ```
 ```
 print('I have a pen')
